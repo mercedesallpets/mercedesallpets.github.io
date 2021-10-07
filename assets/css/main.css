@@ -3,11 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
 @font-face {
 	font-family: "Bunch of Flowers Personal Use";
-	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.svg".woff") format("woff"),
-	     url("../webfonts/Bunch_of_Flowers_Personal_Use.svg".woff") format("woff2"),
-	     url(../webfonts/Bunch_of_Flowers_Personal_Use.svg".otf") format("opentype"),
-	     url(../webfonts/Bunch_of_Flowers_Personal_Use.svg".ttf") format("truetype"),
-	     url("../webfonts/Bunch_of_Flowers_Personal_Use.svg") format("svg");
+	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff"),
+	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff2"),
+	src: url(../webfonts/Bunch_of_Flowers_Personal_Use.otf") format("opentype"),
+	src: url(../webfonts/Bunch_of_Flowers_Personal_Use.ttf") format("truetype"),
+	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.svg") format("svg");
 }
 
 /*
