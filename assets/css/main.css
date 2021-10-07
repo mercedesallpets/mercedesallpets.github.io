@@ -5,8 +5,8 @@
 	font-family: "Bunch of Flowers Personal Use";
 	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff"),
 	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff2"),
-	src: url(../webfonts/Bunch_of_Flowers_Personal_Use.otf") format("opentype"),
-	src: url(../webfonts/Bunch_of_Flowers_Personal_Use.ttf") format("truetype"),
+	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.otf") format("opentype"),
+	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.ttf") format("truetype"),
 	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.svg") format("svg");
 }
 
