@@ -2,11 +2,11 @@
 @import url("fontawesome-all.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
 @font-face {
-font-family: "Bunch of Flowers Personal Use";
-src: url("../webfonts/Bunch of Flowers Personal Use.eot");
-src: url("../webfonts/Bunch of Flowers Personal Use.woff") format("woff"),
-url(../webfonts/Bunch of Flowers Personal Use.otf") format("opentype"),
-url("../webfonts/Bunch of Flowers Personal Use.svg#filename") format("svg");
+	font-family: "Bunch of Flowers Personal Use";
+	src: url("../webfonts/Bunch of Flowers Personal Use.eot");
+	url("../webfonts/Bunch of Flowers Personal Use.woff") format("woff"),
+	url(../webfonts/Bunch of Flowers Personal Use.otf") format("opentype"),
+	url("../webfonts/Bunch of Flowers Personal Use.svg#filename") format("svg");
 }
 
 /*
