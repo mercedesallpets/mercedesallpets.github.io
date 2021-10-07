@@ -1,7 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
-@import url(//db.onlinewebfonts.com/c/a20ccd2574f85b3647bc233bea596beb?family=Bunch+of+Flowers+Personal+Use);
 @import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+@font-face {
+font-family: "Bunch of Flowers Personal Use";
+src: url("../webfonts/Bunch of Flowers Personal Use.eot");
+src: url("../webfonts/Bunch of Flowers Personal Use.woff") format("woff"),
+url(../webfonts/Bunch of Flowers Personal Use.otf") format("opentype"),
+url("../webfonts/Bunch of Flowers Personal Use.svg#filename") format("svg");
+}
 
 /*
 	Miniport by HTML5 UP
