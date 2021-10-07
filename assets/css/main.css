@@ -4,10 +4,10 @@
 @font-face {
 	font-family: "Bunch of Flowers Personal Use";
 	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff"),
-	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff2"),
-	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.otf") format("opentype"),
-	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.ttf") format("truetype"),
-	src: url("../webfonts/Bunch_of_Flowers_Personal_Use.svg") format("svg");
+		 url("../webfonts/Bunch_of_Flowers_Personal_Use.woff") format("woff2"),
+		 url("../webfonts/Bunch_of_Flowers_Personal_Use.otf") format("opentype"),
+		 url("../webfonts/Bunch_of_Flowers_Personal_Use.ttf") format("truetype"),
+		 url("../webfonts/Bunch_of_Flowers_Personal_Use.svg") format("svg");
 }
 
 /*
@@ -107,7 +107,7 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Verdana', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
 		color: #999;
 		font-size: 11pt;
@@ -2019,6 +2019,12 @@ input, select, textarea {
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		padding: 8em 0 8em 0;
 		text-align: center;
+	}
+	.wrapper p {
+		font-family: "Verdana";
+	}
+	.wrapper h4 {
+		color:  #999;
 	}
 
 		.wrapper.style1 {
