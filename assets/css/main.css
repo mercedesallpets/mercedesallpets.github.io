@@ -100,11 +100,10 @@ input, select, textarea {
 		}
 
 	body, input, textarea, select {
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Verdana', sans-serif;
 		line-height: 1.85em;
 		color: #999;
-		font-weight: 300;
-		font-size: 13pt;
+		font-size: 11pt;
 	}
 
 	a {
@@ -233,7 +232,7 @@ input, select, textarea {
 /* Container */
 
 	.subtitle{
-		font-size: 2.5em;
+		font-size: 3em;
 		letter-spacing: -0.015em;
 		font-family: 'Carattere', cursive;
 	}
@@ -2018,6 +2017,12 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-image: none;
 			background-color: #FFFFFF;
+		}
+
+		.wrapper.style1.p {
+			background-image: none;
+			background-color: #FFFFFF;
+			font-weight: 800;
 		}
 
 		.wrapper.style2 {
