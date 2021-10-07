@@ -3,10 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
 @font-face {
 	font-family: "Bunch of Flowers Personal Use";
-	src: url("../webfonts/Bunch of Flowers Personal Use.eot");
-	url("../webfonts/Bunch of Flowers Personal Use.woff") format("woff"),
-	url(../webfonts/Bunch of Flowers Personal Use.otf") format("opentype"),
-	url("../webfonts/Bunch of Flowers Personal Use.svg#filename") format("svg");
+	src: url("../webfonts/Bunch of Flowers Personal Use.eot"),
+	     url("../webfonts/Bunch of Flowers Personal Use.woff") format("woff"),
+	     url("../webfonts/Bunch of Flowers Personal Use.woff") format("woff2"),
+	     url(../webfonts/Bunch of Flowers Personal Use.otf") format("opentype"),
+	     url(../webfonts/Bunch of Flowers Personal Use.ttf") format("truetype"),
+	     url("../webfonts/Bunch of Flowers Personal Use.svg") format("svg");
 }
 
 /*
